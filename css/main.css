@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
+    background-color: rgb(212, 50, 50);
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -11,7 +11,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(13, 128, 221);
 }
 
 h1 {
